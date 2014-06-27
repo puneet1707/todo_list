@@ -16,7 +16,7 @@ $(document).ready(function() {
             return h.replace("<del>", "");
           });
         }
-      });
-      e.preventDefault();
     });
+    e.preventDefault();
   });
+});
